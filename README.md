@@ -1,0 +1,1 @@
+"# Synapse and Delta Lake" 
