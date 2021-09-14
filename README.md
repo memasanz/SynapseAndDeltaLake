@@ -14,3 +14,9 @@ Notebook provides
 - Reviewing History
 - Leveraging Time Travel
 - Vacuuming files
+
+For Data Flow Functionality with Synapse here is a great repo to leverage:
+
+https://github.com/kromerm/adfdataflowdocs
+
+https://docs.microsoft.com/en-us/azure/data-factory/format-delta
